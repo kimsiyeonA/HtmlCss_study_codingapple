@@ -36,3 +36,14 @@ p{
     font-size: 10px;
     box-shadow : 5px 5px black ;
 }
+
+/* ~~~~~~~~ layout1 ~~~~~~~~ */
+
+.container{
+    width: 250px;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: skyblue;
+}
